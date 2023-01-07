@@ -1,7 +1,7 @@
 id=iosevkafont
 name=Iosevka font
-version=v15.1.0
-versionCode=2
+version=v17.0.2
+versionCode=3
 author=Woomymy
 description=Replace your font with Iosevka
 updateJson=https://github.com/Woomymy/Magisk-Iosevka/releases/latest/download/update.json
